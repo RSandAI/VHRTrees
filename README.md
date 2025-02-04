@@ -7,7 +7,7 @@ The imagery required for the dataset has been obtained from Google Earth. We hav
 
 ![sample_2_github1](https://github.com/sulenurtopgul/VHRTrees/assets/109470455/47e94be5-c3af-4770-b5b8-cb09330a6605)
 
-- Download the dataset [here](https://drive.google.com/drive/folders/1CVNsnj2jhcMYW0ZMbopY9xg4XLwUPU0z?usp=sharing)!
+- Download the dataset [here](https://drive.google.com/drive/folders/1CVNsnj2jhcMYW0ZMbopY9xg4XLwUPU0z?usp=sharing) !
 
 # Models, Metric Results and Weights
 
