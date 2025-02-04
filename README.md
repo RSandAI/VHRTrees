@@ -7,6 +7,8 @@ The imagery required for the dataset has been obtained from Google Earth. We hav
 
 ![sample_2_github1](https://github.com/sulenurtopgul/VHRTrees/assets/109470455/47e94be5-c3af-4770-b5b8-cb09330a6605)
 
+- Download the dataset [here](https://drive.google.com/drive/folders/1CVNsnj2jhcMYW0ZMbopY9xg4XLwUPU0z?usp=sharing)
+
 # Models, Metric Results and Weights
 
 Experiments were conducted on Kaggle P100, Colab A100, and NVIDIA Quadro P6000 GPUs. All experiments were conducted on powerful GPUs and executed concurrently, resulting in similar durations. The evaluation results of the top-performing eight experiments are presented in the table below.
