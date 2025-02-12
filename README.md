@@ -32,4 +32,6 @@ Experiments were conducted on Kaggle P100, Colab A100, and NVIDIA Quadro P6000 G
 ![figure3_visual_results](https://github.com/RSandAI/VHRTrees/blob/main/Visual_results_figure3.jpg)
 
 # Citation:
+Please kindly cite our [paper](https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2024.1495544/full) if this code and the dataset used in the study are useful for your research.
+
 Topgül, Ş. N., Sertel, E., Aksoy, S., Ünsalan, C., & Fransson, J. E. S. (2024). VHRTrees: A New Benchmark Dataset for Tree Detection in Satellite Imagery and Performance Evaluation with YOLO-based Models. Frontiers in Forests and Global Change, 7. https://doi.org/10.3389/ffgc.2024.1495544
