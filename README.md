@@ -5,7 +5,7 @@ This repository contains weights for YOLOv5, YOLOv7, YOLOv8, and YOLOv9 networks
 # Dataset Details
 The imagery required for the dataset has been obtained from Google Earth. We have downloaded 218 RGB images, each with a resolution of 1920x1080 pixels and a ground sample distance (GSD) of 0.5 km, covering the districts of Karacabey in Bursa, Turkey and Dikili, Aliağa, Seferihisar, and Selçuk in İzmir, Turkey. A sample image and corresponding minimum boxes for trees can be seen the figure. The dataset has been approximately split as 70% (1023 images), 15% (226 images) and 15% (222 images) for training, validation and testing, respectively.
 
-![sample_2_github1](https://github.com/sulenurtopgul/VHRTrees/assets/109470455/47e94be5-c3af-4770-b5b8-cb09330a6605)
+![sample_2_github1](https://github.com/RSandAI/VHRTrees/blob/main/Dataset_details.jpg)
 
 - Download the dataset [here](https://drive.google.com/drive/folders/1CVNsnj2jhcMYW0ZMbopY9xg4XLwUPU0z?usp=sharing) !
 
@@ -29,7 +29,7 @@ Experiments were conducted on Kaggle P100, Colab A100, and NVIDIA Quadro P6000 G
 
 # Visual Results
 
-![figure3_visual_results](https://github.com/sulenurtopgul/VHRTrees/assets/109470455/c30a47ae-6d23-488a-8e38-98199cff8862)
+![figure3_visual_results](https://github.com/RSandAI/VHRTrees/blob/main/Visual_results_figure3.jpg)
 
 # Citation:
 Topgül, Ş. N., Sertel, E., Aksoy, S., Ünsalan, C., & Fransson, J. E. S. (2024). VHRTrees: A New Benchmark Dataset for Tree Detection in Satellite Imagery and Performance Evaluation with YOLO-based Models. Frontiers in Forests and Global Change, 7. https://doi.org/10.3389/ffgc.2024.1495544
